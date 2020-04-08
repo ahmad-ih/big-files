@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ATMEGA328_Motor_Board-rescue)(type Legacy)(uri ${KIPRJMOD}/ATMEGA328_Motor_Board-rescue.lib)(options "")(descr ""))
+)

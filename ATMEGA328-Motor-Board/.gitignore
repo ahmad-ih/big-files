@@ -1,0 +1,7 @@
+datasheets/
+pcb/gerber/seed
+*.rpt
+*bak
+*erc
+*~
+
